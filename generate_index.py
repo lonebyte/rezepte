@@ -23,13 +23,19 @@ for category in os.scandir(recipe_directory):
         all_recipes[recipe_name] = os.path.join(category.name, urllib.parse.quote(recipe.name))
 
 with open(os.path.join(recipe_directory, 'index.md'), 'w+') as index_file:
+    index_file.write('# Kategorien\n\n')
+
     for category in sorted(categories):
         index_file.write(f'[{category}]({category}/index.md)\n\n')
 
         with open(os.path.join(recipe_directory, category, 'index.md'), 'w+') as category_file:
+            category_file.write(f'# {category}\n\n')
+
             for recipe in sorted(categories[category]):
                 category_file.write(f'[{recipe}]({categories[category][recipe]})\n\n')
 
 with open(os.path.join(recipe_directory, 'all.md'), 'w+') as file:
+    file.write('# Alle Rezepte\n\n')
+
     for recipe in sorted(all_recipes):
         file.write(f'[{recipe}]({all_recipes[recipe]})\n\n')
