@@ -1,4 +1,4 @@
 # Brot
 
-[Rustikales Weizenmischbrot](Rustikales%20Weizenmischbrot.md)
+[Rustikales Weizenmischbrot](Rustikales_Weizenmischbrot.md)
 

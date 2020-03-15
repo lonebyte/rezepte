@@ -1,4 +1,4 @@
 # Alle Rezepte
 
-[Rustikales Weizenmischbrot](Brot/Rustikales%20Weizenmischbrot.md)
+[Rustikales Weizenmischbrot](Brot/Rustikales_Weizenmischbrot.md)
 
