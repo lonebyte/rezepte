@@ -20,6 +20,6 @@ Genug für 16 Kekse
 * Erst jetzt mit der Buttermilch einen klumpigen Teig herstellen
 * Teig kurz zusammenkneten
 * Auf einer bemehlten Oberfläche dünn ausrollen (4-5mm) und mit runden Förmchen (ca. 7cm) ausstechen
-* Kekse einem Blech mit Backpapier verteilen und mit einer Gabel verfach einstechen
+* Kekse einem Blech mit Backpapier verteilen und mit einer Gabel mehrfach einstechen
 * Im Ofen hellbraun backen (ca. 20 Minuten)
 * Nach Belieben auf der Unterseite mit Schokolade bestreichen
