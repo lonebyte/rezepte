@@ -2,7 +2,7 @@
 
 [Digestives](Kekse/Digestives.md)
 
-[Ingwer-Gewürzkuchen](Kuchen/Ingwer-Gew%C3%BCrzkuchen.md)
+[Ingwer-Gewürzkuchen](Kuchen/Ingwer-Gewürzkuchen.md)
 
 [Rustikales Weizenmischbrot](Brot/Rustikales_Weizenmischbrot.md)
 
