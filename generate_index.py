@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import os
-import urllib.parse
 
 recipe_directory = u'rezepte'
 
@@ -18,9 +17,9 @@ for category in os.scandir(recipe_directory):
         recipe_name = os.path.splitext(recipe.name)[0]
 
         categories.setdefault(category.name, {})
-        categories[category.name][recipe_name] = urllib.parse.quote(recipe.name)
+        categories[category.name][recipe_name] = recipe.name
 
-        all_recipes[recipe_name] = os.path.join(category.name, urllib.parse.quote(recipe.name))
+        all_recipes[recipe_name] = os.path.join(category.name, recipe.name)
 
 #print(categories)
 #print(all_recipes)
