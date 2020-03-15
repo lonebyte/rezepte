@@ -1,7 +1,7 @@
 # Rustikales Weizenmischbrot
 Teigausbeute: 171
 
-![Rustikales Weizenmischbrot](/pictures/Rustikales_Weizenmischbrot.jpg)
+![Rustikales Weizenmischbrot](../../pictures/Rustikales_Weizenmischbrot.jpg)
 
 ## Zutaten
 * 40% Weizenmehl Type 550
