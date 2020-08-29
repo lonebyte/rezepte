@@ -1,0 +1,4 @@
+# Suppe
+
+[Kartoffelsuppe](Kartoffelsuppe.md)
+
