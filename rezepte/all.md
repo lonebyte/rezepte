@@ -6,5 +6,7 @@
 
 [Kartoffelsuppe](Suppe/Kartoffelsuppe.md)
 
+[Kürbissuppe](Suppe/Kürbissuppe.md)
+
 [Rustikales Weizenmischbrot](Brot/Rustikales_Weizenmischbrot.md)
 
