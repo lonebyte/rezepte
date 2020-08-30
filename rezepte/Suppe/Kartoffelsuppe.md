@@ -7,9 +7,9 @@ Ergibt 4 Portionen
 * 3 Möhren
 * 1 Stange Lauch
 * Knoblauch nach Belieben
-* 1l Hühnerbrühe
+* 1,2l Hühnerbrühe
 * etwas Weißwein
-* 200ml Sahne
+* 100ml Sahne
 * etwas Butter
 * Gewürze und Kräuter nach Belieben (Salz, Pfeffer, Muskatnuss, Petersilie, Majoran, Essig)
 
