@@ -4,6 +4,8 @@
 
 [Ingwer-Gewürzkuchen](Kuchen/Ingwer-Gewürzkuchen.md)
 
+[Kanelbullar](Kleingebäck/Kanelbullar.md)
+
 [Kartoffelsuppe](Suppe/Kartoffelsuppe.md)
 
 [Kürbissuppe](Suppe/Kürbissuppe.md)
