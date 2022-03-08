@@ -4,21 +4,21 @@
 ![Kanelbullar](../../pictures/Kanelbullar.jpg)
 
 ## Zutaten
-4g Trockenhefe
-30g Wasser (warm)
-125g Milch (warm)
-285g Weizenmehl Type 550
-45g Zucker
-1,5g Salz
-2,5g Grüne Kardamomsamen (gemahlen)
-1 Ei (etwas für die Eistreiche aufheben)
-55g Butter (weich)
+* 4g Trockenhefe
+* 30g Wasser (warm)
+* 125g Milch (warm)
+* 285g Weizenmehl Type 550
+* 45g Zucker
+* 1,5g Salz
+* 2,5g Grüne Kardamomsamen (gemahlen)
+* 1 Ei (etwas für die Eistreiche aufheben)
+* 55g Butter (weich)
 
 ### Füllung
-100g Marzipan
-5g Vanillazucker
-15g Ceylon-Zimt
-75g Butter (weich)
+* 100g Marzipan
+* 5g Vanillazucker
+* 15g Ceylon-Zimt
+* 75g Butter (weich)
 
 ## Zubereitung
 * Hefe in Wasser auflösen und mit Milch und Ei vermischen
