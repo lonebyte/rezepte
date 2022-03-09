@@ -27,9 +27,9 @@
 * Weiterkneten und Butter nach und nach hinzufügen
 * 20 Minuten gehen lassen
 * Füllung zubereiten
-* Teig ausrollen, ca 3-4mm dick, 60cm breit
+* Teig ausrollen, ca 2-3mm dick, 40cm breit
 * Teig mit Füllung besteichen und zusammenrollen
-* In 8 Stücke aufteilen und auf Backblech 2h gehen lassen
+* In 8 Stücke aufteilen, etwas flachdrücken und auf Backblech zugedeckt 2h gehen lassen
 * Mit Eistreiche abglänzen und mit Hagelzucker bestreuen
 * Bei 200°C für 10-15 Minuten backen
 * Mit Zuckerglasur dekorieren
