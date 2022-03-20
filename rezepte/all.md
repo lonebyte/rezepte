@@ -1,5 +1,7 @@
 # Alle Rezepte
 
+[Chiffon Cake](Kuchen/Chiffon_Cake.md)
+
 [Digestives](Kekse/Digestives.md)
 
 [Ingwer-Gewürzkuchen](Kuchen/Ingwer-Gewürzkuchen.md)
