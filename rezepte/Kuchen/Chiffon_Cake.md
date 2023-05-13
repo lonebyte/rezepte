@@ -12,8 +12,9 @@
 ## Beispiele für Flüssigkeit
 * Zitronensaft und Zitronenschale von zwei Zitronen, mit Wasser auffüllen
 * Limonade wie Fanta
-* Wasser und/oder Milch mit etwas Matcha-Pulver
+* Wasser und/oder Milch mit 15g Matcha-Pulver
 * Kaffee
+* Wasser mit 40g Kakaopulver und Instant-Kaffee
 
 ## Zubereitung
 * Backofen auf 160°C (Unter- und Oberhitze) vorheizen
